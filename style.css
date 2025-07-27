@@ -1,0 +1,56 @@
+body{
+    
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    flex-direction: column;
+    
+}
+.outer-div{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.pink-box{
+    height: 120px;
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 25%;
+    margin-left: 10px;
+    background-color: palevioletred;
+}
+.blue-box{
+    height: 120px;
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 25%;
+    margin-left: 10px;
+    background-color:blueviolet;
+}
+
+.orange-box{
+    background-color: orange;
+    height: 120px;
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 25%;
+    margin-left: 10px;
+}
+.light-blue-box{
+    background-color: rgb(28, 148, 188);
+    height: 120px;
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 25%;
+    margin-left: 10px;
+}
+.flash-btn{
+    background-color: white;
+}
