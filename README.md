@@ -1,8 +1,8 @@
 # 🎮 Simon Says Game  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/himanshi-modi/web-development-projects?color=blue&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/himanshi-modi/web-development-projects?color=green&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/himanshi-modi/web-development-projects?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/himanshi-modi/web_development_projects?color=blue&style=flat-square)  
+![GitHub repo size](https://img.shields.io/github/repo-size/himanshi-modi/web_development_projects?color=green&style=flat-square)  
+![GitHub stars](https://img.shields.io/github/stars/himanshi-modi/web_development_projects?style=social)  
 
 A fun and interactive **memory game** built with **HTML, CSS, and JavaScript**.  
 The goal? Follow the color sequence and repeat it without making a mistake. Each level gets harder! 🔥  
@@ -10,7 +10,7 @@ The goal? Follow the color sequence and repeat it without making a mistake. Each
 ---
 
 ## 🚀 Live Demo  
-👉 [Play the Game Here](https://himanshi-modi.github.io/web-development-projects/)  
+👉 [Play the Game Here](https://himanshi-modi.github.io/web_development_projects/simon-says_game/)  
 
 ---
 
@@ -38,4 +38,4 @@ The goal? Follow the color sequence and repeat it without making a mistake. Each
 
 ---
 
-⭐ If you like this project, give it a **star**!
+⭐ If you like this project, give it a **star**!  
